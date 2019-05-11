@@ -1,4 +1,9 @@
 salut
 Ce fichier sert pour un test
 Re, est ce que vous voyez le contenu de fichier ?
-CC oui on vois bien, merci.
+depuis github: CC oui on vois bien, merci.
+depuis git: cool merci
+cdt,
+git
+
+
