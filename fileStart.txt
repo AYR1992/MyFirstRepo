@@ -6,4 +6,5 @@ depuis git: cool merci
 cdt,
 git
 
+depuis github --> ok je t'en remercie pour le retour, comme ça on est en plaine synchronisation 
 
